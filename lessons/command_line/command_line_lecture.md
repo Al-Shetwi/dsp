@@ -196,6 +196,7 @@ ls -lh
 ```
 
 > What changed?
+
 > The difference is in the representation of the file size.
 
 If instead copying we just want to change the name of a file, we can do:
